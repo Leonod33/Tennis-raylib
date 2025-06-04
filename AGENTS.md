@@ -16,10 +16,14 @@
 
 ## Current Focus / Next Steps
 
-- Replace paddle rectangles with stickman or simple human sprites.
-- Add visible rackets to player(s).
+-  Title Screen, win/lose conditions and a game over screen
+-  Improve controls - 'S' should not be for both "move down" and "soft shot", and there should be a "high lob" shot. Players should be able to move forwards up to a small distance away from the center line and backwards, like real tennis players.
+-  Improve the "arena" the game is played in to both look like a Tennis Court (with correct line markings) and have game scoring/logic based on said arena/line (e.g. the ball should be "out" if it lands outside of the outer edge lines).
+-  Need much better ball physics
+-  Imrpove placeholder stickmen, and eventually replace with sprites
+- Improve racket visuals so that they swing, are correctly sized compared to players, and aren't hovering near their nether regions!
 - Implement ball scaling for simulated height during "lob" or "smash" shots.
-- Expand umpire calls/personality; add crowd reactions.
+- Expand umpire calls/personality, have an umpire sprite with text baloon containing his 'calls'; add crowd reactions.
 
 ## Tone & Output
 
