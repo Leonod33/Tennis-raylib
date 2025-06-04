@@ -40,8 +40,9 @@ Create a visually fun, fast-paced 2D tennis game where:
 4. Press F5 to build and run. The window defaults to 1600x900 for sharp visuals on high‑res monitors
 
 ### Controls
-- **W/S:** Move player up/down
-- **A/S/D:** Swing with light/normal/power when ball reaches your player
+- **W/A/S/D:** Move player up/left/down/right
+- **J/K/L:** Swing with light/normal/power
+- **I:** High lob shot
 - **ESC:** Quit
 
 ## 🤖 AI & Codegen Notes
