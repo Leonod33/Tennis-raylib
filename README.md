@@ -14,7 +14,9 @@ Create a visually fun, fast-paced 2D tennis game where:
 ## 🚦 Features (First Prototype)
 - Single player vs AI (or 2P) tennis match
 - Move your player up/down, time your swing for different effects
-- Ball bounces, scores tracked, shouty umpire announces results
+- Ball bounces and now scales in size when "in the air"
+- Stickman players wield simple rackets
+- Shouty umpire announces results with colourful insults
 - Clean, readable code and rapid prototyping thanks to Raylib
 
 ## 🔮 Planned Features & Stretch Goals
@@ -35,7 +37,7 @@ Create a visually fun, fast-paced 2D tennis game where:
 1. Clone the repo
 2. Open the solution in Visual Studio
 3. Make sure Raylib is installed (NuGet or manual)
-4. Press F5 to build and run
+4. Press F5 to build and run. The window defaults to 1600x900 for sharp visuals on high‑res monitors
 
 ### Controls
 - **W/S:** Move player up/down
